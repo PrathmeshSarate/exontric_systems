@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    border: none;
+    border-radius:0px 12px 12px 0px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 13.3333px;
+    line-height: 15px; */
+
+    /* Google Grey/Google Grey Icon */
+
+    color: #616161;
+
+  }
+  
+  .footer-search-icon{
+    float: left;
+    width: 12%;
+    padding: 12px 0px 12px 14px;
+    background: #f1f1f1;
+    color: black;
+    font-size: 20px;
+    border: 1px solid grey;
+    border: none;
+    cursor: pointer; 
+    border-radius:12px 0px 0px 14px;
+    
+  }
+footer{
+    /* width: 1920px; */
+    height: 520px;
+    background-color: #FAFAFA;
+}
+.fa-facebook,.fa-instagram,.fa-linkedin,.fa-twitter,.fa-youtube{
+    width: 21.33px;
+    height: 21.33px;
+    color: #616161;
+}
+
+.footer-social-media{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    /* Google Grey/Google Grey Icon */
+
+    color: #616161;
+}
